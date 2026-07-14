@@ -1,1 +1,1 @@
-Hello, lets practice resolving merge conflicts
+Hello, lets practice resolving merge conflicts on feature-b
