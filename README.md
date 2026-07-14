@@ -1,1 +1,1 @@
-Hello, its time to practice resolving merge conflicts
+this is the final line, conflict resolved.
