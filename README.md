@@ -1,1 +1,1 @@
-Hello, lets practice resolving merge conflicts
+Hello, its time to practice resolving merge conflicts
